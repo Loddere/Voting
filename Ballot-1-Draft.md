@@ -6,7 +6,7 @@
 A. Target 6% max APY.
 B. Target 8% max APY.
 C. Target 10% max APY.
-```
+`#c``
 
 ### 2. What shall DripDropz set the DRIP redemption amount for users to upgrade to the new DripDropz Pro utility feature?
 
@@ -16,7 +16,7 @@ C. Target 10% max APY.
 A. Redeem with 2 ADA + 5,000 DRIP.
 B. Redeem with 2 ADA + 7,500 DRIP.
 C. Redeem with 2 ADA + 10,000 DRIP.
-```
+```#A
 
 ### 3. Shall DripDropz set the review process for curved decay at once per quarter, once per six month, or once per year?
 
@@ -27,7 +27,7 @@ A. Review every quarter.
 B. Review every six months.
 C. Review once annually.
 D. Leave unchanged.
-```
+```#A
 
 ### 4. Shall DripDropz set the minimum wallet size allowed to drip to 50 ADA, 100 ADA, 250 ADA or leave it unchanged at 10 ADA?
 
@@ -38,7 +38,7 @@ A. Require wallets to have a minimum of 50 ADA to receive DRIP.
 B. Require wallets to have a minimum of 100 ADA to receive DRIP.
 C. Require wallets to have a minimum of 250 ADA to receive DRIP.
 D. Make no changes to the current minimum amount of 10 ADA to receive DRIP.
-```
+```#D
 
 ### 5. Shall DripDropz accept an allocation from the treasury of DRIP tokens to enable Node Operator rewards and build a more decentralized DripDropz platform?
 
@@ -49,7 +49,7 @@ A. Yes, permit DripDropz to allocate 3% of the total supply.
 B. Yes, permit DripDropz to allocate 2% of the total supply.
 C. Yes, permit DripDropz to allocate 1% of the total supply.
 D. No, do not allow DripDropz to allocate any of the total supply.
-```
+```#C
 
 ### 6. Shall DripDropz accept an allocation from the treasury of DRIP tokens to enable operational flexibility, DEX/CEX platform incentives, community incentives and DripDropz team and employee rewards?
 
@@ -60,4 +60,4 @@ A. Yes, permit DripDropz to allocate 10% of the total supply.
 B. Yes, permit DripDropz to allocate 7.5% of the total supply.
 C. Yes, permit DripDropz to allocate 5% of the total supply.
 D. No, do not allow DripDropz to allocate any of the total supply.
-```
+```#D
